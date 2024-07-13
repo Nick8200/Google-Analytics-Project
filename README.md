@@ -17,4 +17,11 @@
 
 ### Data Source 
 
-Google_Analytics Data: The Primary dataset used for this analysis is the "
+Google_Analytics Data: The Primary dataset used for this analysis is the "Google_Analytics.xlsx
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase,we performed the following tasks:
+1. Data loading and inspectons.
+2. Handaling Missing Values.
+3. Data Cleaning and Formating 
