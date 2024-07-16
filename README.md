@@ -28,6 +28,8 @@ In the initial data preparation phase,we performed the following tasks:
 
 ### Model Building 
 
+First i did As part of the project, I conducted correlation analysis using a heatmap to understand relationships between variables derived from Google Analytics data.
+
 ![download](https://github.com/user-attachments/assets/480d15c0-c81f-494f-a930-7ecfce4c2cea)
 
 
