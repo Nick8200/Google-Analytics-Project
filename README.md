@@ -58,8 +58,6 @@ Evaluated the effectiveness of each model using RMSE and other relevant metrics.
 
 Compared model performance to identify strengths and weaknesses.
 
-### Data Visulaization 
+![download](https://github.com/user-attachments/assets/0eac0fdf-4c8d-4a43-9a77-68c0ccb613b4)
 
-![Screenshot 2024-05-31 124338](https://github.com/user-attachments/assets/ba025ab1-3639-49fb-a099-0f384ff703fe)
 
-![Screenshot 2024-05-31 124648](https://github.com/user-attachments/assets/575c1e4a-3604-4821-b827-bee9a72a7d62)
