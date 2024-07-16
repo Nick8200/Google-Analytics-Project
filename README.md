@@ -25,3 +25,39 @@ In the initial data preparation phase,we performed the following tasks:
 1. Data loading and inspectons.
 2. Handaling Missing Values.
 3. Data Cleaning and Formating 
+
+### Model Building 
+
+![download](https://github.com/user-attachments/assets/480d15c0-c81f-494f-a930-7ecfce4c2cea)
+
+
+Implemented a train-test split to evaluate model performance.
+
+Applied scaling techniques to normalize data for optimal model performance.
+
+Utilized Root Mean Squared Error (RMSE) as a metric to assess model accuracy.
+
+
+I tried two different Models:
+
+1.Logistic Regression
+
+2.K-Nearest Neighbors Regressor
+
+### Model Performance 
+
+Logistic Regression: 0.87
+
+K-Nearest Neighbors Regressor: 0.90
+
+### Results
+
+Evaluated the effectiveness of each model using RMSE and other relevant metrics.
+
+Compared model performance to identify strengths and weaknesses.
+
+### Data Visulaization 
+
+![Screenshot 2024-05-31 124338](https://github.com/user-attachments/assets/ba025ab1-3639-49fb-a099-0f384ff703fe)
+
+![Screenshot 2024-05-31 124648](https://github.com/user-attachments/assets/575c1e4a-3604-4821-b827-bee9a72a7d62)
