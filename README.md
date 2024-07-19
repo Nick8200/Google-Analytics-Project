@@ -1,4 +1,4 @@
-# Google-Analytics User Behavior Analysis & Revenue Preidiction
+## REVENUE PREDICTION 
 
  In this Project I have built a Machine Learning Model to predicting Future Revenue to use Google Analytics data that can answer any kind of user Query related to Website Traffic and user behavior. 
 
